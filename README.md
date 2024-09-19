@@ -1,1 +1,1 @@
-# EWCAT - Ensemble of Weighted CNNs, paired with spatial/channelwise Attention block, and a visual Transformer
+# EWCAT - Ensemble of Weighted CNNs, spatial/channelwise Attention block, and a visual Transformer
