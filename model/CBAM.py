@@ -1,4 +1,13 @@
 # Source: https://github.com/Jongchan/attention-module/blob/master/MODELS/cbam.py
+# @misc{woo2018cbamconvolutionalblockattention,
+#       title={CBAM: Convolutional Block Attention Module}, 
+#       author={Sanghyun Woo and Jongchan Park and Joon-Young Lee and In So Kweon},
+#       year={2018},
+#       eprint={1807.06521},
+#       archivePrefix={arXiv},
+#       primaryClass={cs.CV},
+#       url={https://arxiv.org/abs/1807.06521}, 
+# }
 import torch
 import math
 import torch.nn as nn
