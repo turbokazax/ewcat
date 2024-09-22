@@ -3,6 +3,7 @@ from torchvision.models.feature_extraction import create_feature_extractor
 from torchvision import models
 import torch.nn as nn
 import torch.nn.functional as F
+from CBAM import CBAM
 
 
 class ResNet(torch.nn.Module):
